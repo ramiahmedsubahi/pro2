@@ -1,0 +1,48 @@
+.rm{
+
+	background: #A52A2A
+}
+
+.ri{
+	
+	text-decoration: none;
+	  
+	color: #0000FF;
+font-size: 60px;
+
+    
+}
+
+.lf{
+		text-decoration: none;
+
+	color: #FF4500;
+	font-size: 60px;
+
+}
+
+.fo{
+
+		text-decoration: none;
+
+	color: #FFA500;
+	
+font-size: 60px;
+
+}
+
+.ba{
+		text-decoration: none;
+
+	color: #D2691E;
+	font-size:60px;
+
+}
+
+.st{
+		text-decoration: none;
+
+	color: #8B0000;
+	font-size: 60px;
+
+}
